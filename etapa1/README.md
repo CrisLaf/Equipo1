@@ -13,7 +13,7 @@ Nuestra misión es trabajar en equipo para generar un conjunto de datos enriquec
    - Importar los datasets `Historicos_Ordenes.csv`, `Caracteristicas_Equipos.csv`, y `Registros_Condiciones.csv` usando Python (en memoria).
    - Crear nueva base de datos "data_powergen":
       - Crear tabla de base de datos para datos de mantenimiento (Historicos_Ordenes). Cargar los datos Historicos_Ordenes en la tabla correspondiente.
-      - Crear tabla de base de datos para generar información combinada (Resultados_join).
+      - Crear tabla de base de datos para generar información combinada (Resultados_join). #DONE
 
 2. **Filtrado y agrupamiento:**
    - Contar el número total de órdenes de mantenimiento realizadas para cada equipo (`ID_Equipo`).
